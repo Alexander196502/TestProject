@@ -1,4 +1,4 @@
-# Импорт всех классов и функций из модуля tkinter для создания GUI
+#  Импорт всех классов и функций из модуля tkinter для создания GUI
 from tkinter import *
 # Импорт модуля для работы с диалогами выбора файлов
 from tkinter import filedialog as fd
